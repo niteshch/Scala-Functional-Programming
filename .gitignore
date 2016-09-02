@@ -1,0 +1,34 @@
+# scala
+*.class
+*.log
+
+# sbt
+target/
+lib_managed/
+src_managed/
+project/boot/
+
+.idea
+*.iml
+
+*.swp
+
+# IDE
+.scala_dependencies
+.worksheet
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.classpath
+.cache-*
+
+# Eclipse Core
+.project
