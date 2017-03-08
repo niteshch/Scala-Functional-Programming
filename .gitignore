@@ -32,3 +32,6 @@ local.properties
 
 # Eclipse Core
 .project
+
+#Mac
+*.DS_Store
